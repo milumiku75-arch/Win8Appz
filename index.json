@@ -1,0 +1,36 @@
+{
+  "apps": {
+    "dev.example.tides": {
+      "name": "Tides",
+      "lane": "community",
+      "author": "Ada",
+      "repo": "https://github.com/ada/tides",
+      "permissions": ["geolocation"],
+      "releases": [
+        {
+          "release": "1.2.0+9f3ab21c",
+          "sdk": "0.0.0",
+          "bytes": 412000,
+          "sha256": "…",
+          "note": "Tide tables offline"
+        },
+        {
+          "release": "1.1.0+02cc7e10",
+          "sdk": "0.0.0",
+          "bytes": 398000,
+          "sha256": "…"
+        }
+      ]
+    },
+    "cuttherope.h5dx": {
+      "name": "Cut the Rope: H5DX",
+      "publisher": "CTR Home",
+      "repo": "https://yell0wsuit.github.io/cuttherope-h5dx/",
+      "releases": [
+        {
+          "release": "1.0"
+        }
+      ]
+    }
+  }
+}
