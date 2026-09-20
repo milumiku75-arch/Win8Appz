@@ -22,13 +22,18 @@
         }
       ]
     },
-    "cuttherope.h5dx": {
+    "dev.ctrhome.cuttherope": {
       "name": "Cut the Rope: H5DX",
-      "publisher": "CTR Home",
+      "lane": "community",
+      "author": "CTR Home",
       "repo": "https://yell0wsuit.github.io/cuttherope-h5dx/",
+      "permissions": [],
       "releases": [
         {
-          "release": "1.0"
+          "release": "1.0",
+          "sdk": "0.0.0",
+          "bytes": 0,
+          "sha256": "…"
         }
       ]
     }
